@@ -1,10 +1,9 @@
-# [Website Name]
+# Flexbox Website
 
 [![Build Status](https://img.shields.io/travis/[username]/[reponame]/master.svg?style=flat-square)](https://travis-ci.org/[username]/[reponame])
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/[username]/[reponame]/blob/master/LICENSE.md)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/[username]/[reponame].svg?style=social&label=Follow%20%40[twitterhandle]&logo=twitter)](https://twitter.com/intent/follow?screen_name=[twitterhandle])
 
-[One sentence summary of what the website is about]
+This is a Flexbox website that showcases the use of CSS Flexbox layout.
 
 ## Getting Started
 
@@ -12,21 +11,18 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-[What software and libraries are required in order to run the website?]
+You'll need a web browser to view the website.
 
 ### Installing
 
-[Step-by-step instructions on how to install the website]
-
-## Deployment
-
-[Instructions on how to deploy the website to a live server]
+1. Clone the repository: `git clone https://github.com/[username]/[reponame].git`
+2. Navigate to the project directory: `cd [reponame]`
+3. Open `index.html` in your web browser.
 
 ## Built With
 
-* [Technology 1](https://www.example.com/) - Description of technology 1
-* [Technology 2](https://www.example.com/) - Description of technology 2
-* [Technology 3](https://www.example.com/) - Description of technology 3
+* HTML
+* CSS
 
 ## Contributing
 
@@ -48,6 +44,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* [Acknowledgment 1](https://www.example.com/) - Description of acknowledgment 1
-* [Acknowledgment 2](https://www.example.com/) - Description of acknowledgment 2
-* [Acknowledgment 3](https://www.example.com/) - Description of acknowledgment 3
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
