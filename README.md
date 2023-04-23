@@ -30,7 +30,7 @@ This website can be deployed to any web server or hosting service.
 
 ## Authors
 
-* **[Author Name](https://github.com/[username])** - *Initial work*
+* **[Author Name](https://github.com/davidaleksejevs)** - *Initial work*
 
 ## License
 
