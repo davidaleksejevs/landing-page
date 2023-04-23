@@ -2,8 +2,9 @@
 
 [![Build Status](https://img.shields.io/travis/[username]/[reponame]/master.svg?style=flat-square)](https://travis-ci.org/[username]/[reponame])
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/[username]/[reponame]/blob/master/LICENSE.md)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/[username]/[reponame].svg?style=social&label=Follow%21%40[twitterhandle]&logo=twitter)](https://twitter.com/intent/follow?screen_name=[twitterhandle])
 
-This is a Flexbox website that showcases the use of CSS Flexbox layout.
+A simple website created using Flexbox.
 
 ## Getting Started
 
@@ -11,32 +12,25 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You'll need a web browser to view the website.
+You need a web browser to view this website.
 
-### Installing
+### Installation
 
 1. Clone the repository: `git clone https://github.com/[username]/[reponame].git`
-2. Navigate to the project directory: `cd [reponame]`
-3. Open `index.html` in your web browser.
+2. Open the `index.html` file in your web browser.
+
+## Deployment
+
+This website can be deployed to any web server or hosting service.
 
 ## Built With
 
-* HTML
-* CSS
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/[username]/[reponame]/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/[username]/[reponame]/tags). 
+* HTML5
+* CSS3 (Flexbox)
 
 ## Authors
 
 * **[Author Name](https://github.com/[username])** - *Initial work*
-
-See also the list of [contributors](https://github.com/[username]/[reponame]/contributors) who participated in this project.
 
 ## License
 
@@ -44,6 +38,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
+* Hat tip to anyone who's code was used
 * Inspiration
 * etc
