@@ -1,36 +1,27 @@
-# Flexbox Website
+# Landing Page
 
-[![Build Status](https://img.shields.io/travis/[username]/[reponame]/master.svg?style=flat-square)](https://travis-ci.org/[username]/[reponame])
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/[username]/[reponame]/blob/master/LICENSE.md)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/[username]/[reponame].svg?style=social&label=Follow%21%40[twitterhandle]&logo=twitter)](https://twitter.com/intent/follow?screen_name=[twitterhandle])
+This is a simple landing page built with HTML and CSS using Flexbox. The webpage is fully responsive and works well on mobile devices.
 
-A simple website created using Flexbox.
+## Demo
 
-## Getting Started
+You can view a live demo of the landing page [here](https://davidaleksejevs.github.io/landing-page/).
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+## Features
 
-### Prerequisites
+* Responsive design
+* Use of Flexbox for layout
+* Call to action button for signing up
+* Testimonials section with user quotes
+* Illustrations with curved blue squares
 
-You need a web browser to view this website.
+## Installation and Usage
 
-### Installation
+1. Clone the repository using `git clone https://github.com/davidaleksejevs/landing-page.git`.
+2. Open the `index.html` file in your browser to view the landing page.
 
-1. Clone the repository: `git clone https://github.com/[username]/[reponame].git`
-2. Open the `index.html` file in your web browser.
+## Contributing
 
-## Deployment
-
-This website can be deployed to any web server or hosting service.
-
-## Built With
-
-* HTML5
-* CSS3 (Flexbox)
-
-## Authors
-
-* **[Author Name](https://github.com/davidaleksejevs)** - *Initial work*
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 
@@ -38,6 +29,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Illustrations are from [unDraw](https://undraw.co/)
+* Testimonials are from [Quotable](https://github.com/lukePeavey/quotable)
+
+Thank you for checking out this project!
