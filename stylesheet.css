@@ -1,0 +1,159 @@
+/* Reset and global styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Header, hero, and footer styles */
+  header,
+  .hero,
+  footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+  }
+  
+  /* Header logo styles */
+  .header-logo {
+    font-size: 24px;
+  }
+  
+  /* Navigation styles */
+  nav {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .header-link {
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
+  }
+  
+  /* Hero section styles */
+  .hero {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+  }
+  
+  .hero h2 {
+    font-size: 48px;
+    font-weight: 800;
+  }
+  
+  .hero p {
+    font-size: 18px;
+    color: #E5E7EB;
+  }
+  
+  .hero button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 18px;
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Main section styles */
+  main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  /* Information section styles */
+  .information {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding: 2rem;
+  }
+  
+  .information h3 {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+    margin-bottom: 1rem;
+  }
+  
+  /* Illustrations styles */
+  .illustrations {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+  
+  .illustration {
+    background-color: #3882F6;
+    border-radius: 10px;
+    padding: 1rem;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+  
+  .illustration p {
+    font-size: 18px;
+    color: #1F2937;
+    position: absolute;
+    bottom: -25px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  /* Quote section styles */
+  .quote {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    width: 100%;
+  }
+  
+  .quote p {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    color: #1F2937;
+  }
+  
+  .quote cite {
+    display: block;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    color: #1F2937;
+  }
+  
+  /* Call-to-action section styles */
+  .call-to-action {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding: 2rem;
+  }
+  
+  .call-to-action button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 18px;
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    border: none;
+    cursor: pointer
+  }
